@@ -6,7 +6,7 @@ class MaxHeap {
 		this.parentNodes = [];
 	}
 
-	push(data, priority) {
+	push() {
 		
 	}
 
